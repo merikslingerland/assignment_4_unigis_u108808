@@ -1,2 +1,3 @@
-# assignment_4_unigis_u108808
-Application development A4
+# Basics of Application Development
+
+Submitted by u108808
